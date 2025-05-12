@@ -1,1 +1,3 @@
-
+- **Timer-XL: Long-Context Transformers for Unified Time Series Forecasting**,[NIPS 2024] [[paper](https://arxiv.org/abs/2410.04803)] [[code](https://github.com/thuml/Timer-XL)]
+- **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts**,[ICLR 2025] [[paper](https://arxiv.org/abs/2409.16040)] [[code](https://github.com/Time-MoE/Time-MoE)]
+- **Unified Training of Universal Time Series Forecasting Transformers**,[ICML 2024] [[paper](https://arxiv.org/abs/2402.02592)] [[code](https://github.com/SalesforceAIResearch/uni2ts)]
