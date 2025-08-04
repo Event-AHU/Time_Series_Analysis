@@ -1,4 +1,12 @@
-# Time_Series_Analysis 
+<div align="center">
+      
+<img src="https://github.com/Event-AHU/Time_Series_Analysis/blob/main/2D_animation_clear_background.gif" width="600">
+
+**An open-source framework for Time_Series_Analysis, based on PyTorch**
+
+------
+
+</div>
 
 
 ## Video Tutorial
