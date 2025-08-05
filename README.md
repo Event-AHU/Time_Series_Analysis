@@ -9,6 +9,15 @@
 </div>
 
 
+
+## Works Maintained in this GitHub 
+* **HGTS-Former: Hierarchical HyperGraph Transformer for Multivariate Time Series Analysis**,
+  Xiao Wang, Hao Si, Fan Zhang, Xiaoya Zhou, Dengdi Sun, Wanli Lyu, Qingquan Yang, Jin Tang,
+  arXiv:2508.02411 [[Paper](https://arxiv.org/abs/2508.02411)] 
+
+
+
+
 ## Video Tutorial
 
 * **清华大学软件学院长聘副教授龙明盛：Timer 3.0 已经成为了“满血版”的时序大模型** [[URL](https://mp.weixin.qq.com/s/_xOZimDrIY8506j4ZVDkGQ)]
