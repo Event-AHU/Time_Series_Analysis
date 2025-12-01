@@ -57,6 +57,22 @@
 
 
 ### Year 2024 
+* ***
+- SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion [[paper]](https://arxiv.org/pdf/2404.14197)[[code]](https://github.com/Secilia-Cxy/SOFTS)
+
+- Timer: Generative Pre-trained Transformers Are Large Time Series Models [[paper]](https://arxiv.org/abs/2402.02368)[[code]](https://github.com/thuml/Large-Time-Series-Model)
+
+- U-Mixer: An Unet-Mixer Architecture with Stationarity Correction for Time Series Forecasting [[paper]](https://arxiv.org/abs/2401.02236)[[code]](https://github.com/XiangMa-Shaun/U-Mixer)
+
+- TimeMixer: Decomposable Multiscale Mixing for Time Series Forecasting [[paper]](https://openreview.net/pdf?id=7oLshfEIC2)[[code]](https://github.com/kwuking/TimeMixer)
+
+- ITRANSFORMER: INVERTED TRANSFORMERS ARE EFFECTIVE FOR TIME SERIES FORECASTING [[paper]](https://arxiv.org/pdf/2310.06625)[[code]](https://github.com/thuml/iTransformer)
+
+- Ada-MSHyper: Adaptive Multi-Scale Hypergraph Transformer for Time Series Forecasting [[paper]](https://arxiv.org/pdf/2410.23992)[[code]](https://github.com/shangzongjiang/Ada-MSHyper)
+
+- AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[paper]](https://arxiv.org/pdf/2402.02370)[[code]](https://github.com/thuml/AutoTimes)
+
+- TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0113ef4642264adc2e6924a3cbbdf532-Abstract-Conference.html)[[code]](https://github.com/thuml/TimeXer)
 
 
 ### Year 2023 
