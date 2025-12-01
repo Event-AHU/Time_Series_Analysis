@@ -4,8 +4,9 @@
 
 ### Year 2025 
 * ***
-  [[Paper]()] 
-  [[Code]()]
+- TIMER-XL: LONG-CONTEXT TRANSFORMERS FOR UNIFIED TIME SERIES FORECASTING
+  [[Paper](https://arxiv.org/abs/2410.04803)] 
+  [[Code](https://github.com/thuml/Timer-XL)]
 
 * ***
   [[Paper]()] 
