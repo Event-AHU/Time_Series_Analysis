@@ -100,7 +100,17 @@
 
 ### Year 2023 
 * ***
-- CROSSFORMER: TRANSFORMER UTILIZING CROSS-DIMENSION DEPENDENCY FOR MULTIVARIATE TIME SERIES FORECASTING [[paper]](https://openreview.net/pdf?id=vSVLM2j9eie)[[code]](https://github.com/Thinklab-SJTU/Crossformer)
+- TimesNet: Temporal 2D-Variation Modeling for General Time Series Analysis [[paper]](http://arxiv.org/abs/2210.02186)[[code]](https://github.com/thuml/TimesNet)
+- MICN: Multi-scale Local and Global Context Modeling for Long-term Series Forecasting [[paper]](https://openreview.net/pdf?id=zt53IDUR1U)[[code]](https://github.com/wanghq21/MICN)
+- Crossformer: Transformer Utilizing Cross-Dimension Dependency for Multivariate Time Series Forecasting [[paper]](https://openreview.net/pdf?id=vSVLM2j9eie)[[code]](https://github.com/Thinklab-SJTU/Crossformer)
+- Scaleformer: Iterative Multi-scale Refining Transformers for Time Series Forecasting [[paper]](https://openreview.net/pdf?id=sCrnllCtjoE)[[code]](https://github.com/BorealisAI/scaleformer)
+- A Time Series is Worth 64 Words: Long-term Forecasting with Transformers [[paper]](http://arxiv.org/abs/2211.14730)[[code]](https://github.com/yuqinie98/PatchTST)
+- AirFormer: Predicting Nationwide Air Quality in China with Transformers [[paper]](https://arxiv.org/abs/2211.15979)[[code]](https://github.com/yoshall/airformer)
+- PDFormer: Propagation Delay-Aware Dynamic Long-Range Transformer for Traffic Flow Prediction [[paper]](https://arxiv.org/abs/2301.07945)[[code]](https://github.com/BUAABIGSCity/PDFormer)
+- Time Series as Images: Vision Transformer for Irregularly Sampled Time Series [[paper]](https://arxiv.org/abs/2303.12799)[[code]](https://github.com/Leezekun/ViTST)
+- ContiFormer: Continuous-Time Transformer for Irregular Time Series Modeling [[paper]](https://openreview.net/pdf?id=YJDz4F2AZu)[[code]](https://github.com/microsoft/SeqML/tree/main/ContiFormer)
+- BasisFormer: Attention-based Time Series Forecasting with Learnable and Interpretable Basis [[paper]](https://arxiv.org/abs/2310.20496)[[code]](https://github.com/nzl5116190/basisformer)
+- Towards Long-Term Time-Series Forecasting: Feature, Pattern, and Distribution [[paper]](https://arxiv.org/abs/2301.02068)[[code]](https://github.com/PaddlePaddle/PaddleSpatial/tree/main/research/Conformer)
 
 
 ### Year 2022 
