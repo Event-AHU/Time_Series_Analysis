@@ -88,6 +88,38 @@
 
 
 ### Year 2020 & Before 
+- Data-gru: Dual-attention time-aware gated recurrent unit for irregular multivariate time series [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5440)
+- Joint modeling of local and global temporal dynamics for multivariate time series forecasting with missing values [[paper]](https://arxiv.org/pdf/1911.10273)
+- Factorized inference in deep markov models for incomplete multimodal time series [[paper]](https://arxiv.org/pdf/1905.13570)[[code]](https://github.com/ztangent/multimodal-dmm)
+- Deep unsupervised binary coding networks for multivariate time series retrieval [[paper]](https://nijingchao.github.io/paper/aaai20_dubcn.pdf)
+- Relation inference among sensor time series in smart buildings with metric learning [[paper]](https://cdn.aaai.org/ojs/5900/5900-13-9125-1-10-20200513.pdf)
+- Time2graph: Revisiting time series modeling with dynamic shapelets [[paper]](https://arxiv.org/pdf/1911.04143)
+- Tensorized LSTM with adaptive shared memory for learning trends in multivariate time series [[paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5496)[[code]](https://github.com/dongkuanx27/DeepTrends)
+- Block Hankel tensor ARIMA for multiple short time series forecasting [[paper]](https://arxiv.org/pdf/2002.12135)[[code]](https://github.com/yokotatsuya/BHT-ARIMA)
+- Tapnet: Multivariate time series classification with attentional prototypical network [[paper]](https://xuczhang.github.io/papers/aaai20_tapnet_full.pdf)[[code]](https://github.com/wxyhhh/tapnet)
+- Deep reconstruction of strange attractors from time series [[paper]](https://arxiv.org/pdf/2002.05909)
+- Normalizing kalman filters for multivariate time series analysis [[paper]](https://proceedings.neurips.cc/paper/2020/file/1f47cef5e38c952f94c5d61726027439-Paper.pdf)
+- Probabilistic time series forecasting with shape and temporal diversity [[paper]](https://arxiv.org/pdf/2010.07349)
+- Benchmarking deep learning interpretability in time series predictions [[paper]](https://arxiv.org/pdf/2010.13924)[[code]](https://github.com/ayaabdelsalam91/TS-Interpretability-Benchmark)
+- Neural controlled differential equations for irregular time series [[paper]](https://proceedings.neurips.cc/paper/2020/file/4a5876b450b45371f6cfe5047ac8cd45-Paper.pdf)[[code]](https://github.com/patrick-kidger/NeuralCDE)
+- High-recall causal discovery for autocorrelated time series with latent confounders [[paper]](https://arxiv.org/pdf/2007.01884)[[code]](https://github.com/jakobrunge/tigramite)
+- Deep rao-blackwellised particle filters for time series forecasting [[paper]](https://papers.nips.cc/paper/2020/file/afb0b97df87090596ae7c503f60bb23f-Paper.pdf)
+- Adversarial sparse transformer for time series forecasting [[paper]](https://proceedings.neurips.cc/paper/2020/file/c6b8c8d762da15fa8dbbdfb6baf9e260-Paper.pdf)[[code]](https://github.com/hihihihiwsf/AST)
+- Set functions for time series [[paper]](https://arxiv.org/pdf/1909.12064)
+- Spectral subsampling MCMC for stationary time series [[paper]](https://arxiv.org/pdf/1910.13627)[[code]](https://github.com/robsalomone/SpectralSubsamplingMCMC)
+- Satellite image time series classification with pixel-set encoders and temporal self-attention [[paper]](https://arxiv.org/pdf/1911.07757)[[code]](https://github.com/VSainteuf/pytorch-psetae)
+- A new attention mechanism to classify multivariate time series [[paper]](https://www.ijcai.org/Proceedings/2020/0277.pdf)[[code]](https://github.com/huipingcao/nmsu_yhao_ijcai2020)
+- A quantum-inspired entropic kernel for multiple financial time series analysis [[paper]](https://www.ijcai.org/Proceedings/2020/0614.pdf)
+- WATTNet: learning to trade FX via hierarchical spatio-temporal representation of highly multivariate time series [[paper]](https://arxiv.org/pdf/1909.10801)[[code]](https://github.com/Zymrael/wattnet-fx-trading)
+- The Squawk Bot: Joint Learning of Time Series and Text Data Modalities for Automated Financial Information Filtering [[paper]](https://arxiv.org/pdf/1912.10858)
+- Optstream: Releasing time series privately [[paper]](https://arxiv.org/pdf/1808.01949)
+- Deep convolutional neural networks for multi-scale time-series classification and application to tokamak disruption prediction using raw, high temporal resolution diagnostic data [[paper]](https://arxiv.org/pdf/1911.00149)[[code]](https://github.com/rmchurch/disruptcnn)
+- Using LSTMfor the Prediction of Disruption in ADITYA Tokamak [[paper]](https://arxiv.org/pdf/2007.06230)[[code]](https://github.com/amanbasu/plasma-disruption/blob/master/plasma_disruption.gif)
+- Fully convolutional spatio-temporal models for representation learning in plasma science [[paper]](https://arxiv.org/pdf/2007.10468)
+- Modeling and control of plasma horizontal displacement for HL-2A tokamak based on LSTM [[paper]](https://www.sciencedirect.com/science/article/pii/S0920379620306554)
+- Classification of tokamak plasma confinement states with convolutional recurrent neural networks [[paper]](https://arxiv.org/pdf/1911.04234)
+- A Bayesian model of filamentary dynamics in MAST [[paper]](https://iopscience.iop.org/article/10.1088/1361-6587/ab8e1a/pdf)
+- Plasma filaments in the scrape-off layer of Wendelstein 7-X [[paper]](https://iopscience.iop.org/article/10.1088/1361-6587/ab9313)
 
 
 
