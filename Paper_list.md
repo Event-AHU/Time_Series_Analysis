@@ -77,11 +77,11 @@
 - DDN: Dual-domain Dynamic Normalization for Non-stationary Time Series Forecasting [[paper]](https://openreview.net/forum?id=RVZfra6sZo)[[code]](https://github.com/Hank0626/DDN)
 
 - A decoder-only foundation model for time-series forecasting [[paper]](https://icml.cc/virtual/2024/poster/33288)[[code]](https://huggingface.co/google/timesfm-1.0-200m)
-- 
+
 - Unified Training of Universal Time Series Forecasting Transformers [[paper]](https://icml.cc/virtual/2024/poster/33767)[[code]](https://github.com/SalesforceAIResearch/uni2ts)
-- 
+
 - MOMENT: A Family of Open Time-series Foundation Models [[paper]](https://icml.cc/virtual/2024/poster/34530)[[code]](https://huggingface.co/AutonLab/MOMENT-1-large)
-- 
+
 - SparseTSF: Modeling Long-term Time Series Forecasting with 1k Parameters  [[paper]](https://icml.cc/virtual/2024/poster/34991)[[code]](https://github.com/moment-timeseries-foundation-model/moment-research)
 
 - Irregular Multivariate Time Series Forecasting: A Transformable Patching Graph Neural Networks Approach [[paper]](https://icml.cc/virtual/2024/poster/33940)[[code]](https://github.com/usail-hkust/t-PatchGNN)
