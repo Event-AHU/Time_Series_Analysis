@@ -73,7 +73,9 @@
 - AutoTimes: Autoregressive Time Series Forecasters via Large Language Models [[paper]](https://arxiv.org/pdf/2402.02370)[[code]](https://github.com/thuml/AutoTimes)
 
 - TimeXer: Empowering Transformers for Time Series Forecasting with Exogenous Variables [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0113ef4642264adc2e6924a3cbbdf532-Abstract-Conference.html)[[code]](https://github.com/thuml/TimeXer)
-- 
+
+- DDN: Dual-domain Dynamic Normalization for Non-stationary Time Series Forecasting [[paper]](https://openreview.net/forum?id=RVZfra6sZo)[[code]](https://github.com/Hank0626/DDN)
+
 - A decoder-only foundation model for time-series forecasting [[paper]](https://icml.cc/virtual/2024/poster/33288)[[code]](https://huggingface.co/google/timesfm-1.0-200m)
 - 
 - Unified Training of Universal Time Series Forecasting Transformers [[paper]](https://icml.cc/virtual/2024/poster/33767)[[code]](https://github.com/SalesforceAIResearch/uni2ts)
