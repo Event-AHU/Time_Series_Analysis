@@ -149,6 +149,40 @@
 
 ### Year 2021 
 
+  * [NeurIPS 2021] **Autoformer: Decomposition transformers with auto-correlation for long-term series forecasting** — Wu et al. — [paper](https://proceedings.neurips.cc/paper/2021/file/bcc0d400288793e8bdcd7c19a8ac0c2b-Paper.pdf) [code](https://github.com/thuml/Autoformer)
+  * [NeurIPS 2021] **Deep explicit duration switching models for time series** — Abdul Fatir Ansari et al. — [paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/fb4c835feb0a65cc39739320d7a51c02-Paper.pdf) [code](https://github.com/abdulfatir/REDSDS)
+  * [NeurIPS 2021] **Neural flows: Efficient alternative to neural odes** — Marin Biloš et al. — [paper](https://proceedings.neurips.cc/paper/2021/file/b21f9f98829dea9a48fd8aaddc1f159d-Paper.pdf) [code](https://github.com/mbilos/neural-flows-experiments)
+  * [NeurIPS 2021] **Probabilistic forecasting: A level-set approach** — Hilaf Hasson et al. — [paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/32b127307a606effdcc8e51f60a45922-Paper.pdf) [code](https://github.com/awslabs/gluon-ts) 
+  * [NeurIPS 2021] **Grin: Generative relation and intention network for multi-agent trajectory prediction** — Li et al. — [paper](https://proceedings.neurips.cc/paper/2021/file/e3670ce0c315396e4836d7024abcf3dd-Paper.pdf) [code](https://github.com/longyuanli/GRIN_NeurIPS21)
+  * [NeurIPS 2021] **Probabilistic transformer for time series analysis** — Tang and Matteson — [paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/c68bd9055776bf38d8fc43c0ed283678-Paper.pdf)
+  * [NeurIPS 2021] **Detecting anomalous event sequences with temporal point processes** — Oleksandr Shchur et al. — [paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/6faa8040da20ef399b63a72d0e4ab575-Paper.pdf) [code](https://github.com/shchur/tpp-anomaly-detection)
+  * [NeurIPS 2021] **Conformal time-series forecasting** — Kamile Stankeviciute et al. — [paper](https://proceedings.neurips.cc/paper/2021/file/312f1ba2a72318edaaa995a67835fad5-Paper.pdf) [code](https://github.com/kamilest/conformal-rnn)
+  * [ICML 2021] **Voice2series: Reprogramming acoustic models for time series classification** — Yang et al. — [paper](https://proceedings.mlr.press/v139/yang21j/yang21j.pdf) [code](https://github.com/huckiyang/Voice2Series-Reprogramming)
+  * [ICML 2021] **End-to-end learning of coherent probabilistic forecasts for hierarchical time series** — Syama Sundar Rangapuram et al. — [paper](https://proceedings.mlr.press/v139/rangapuram21a/rangapuram21a.pdf) [code](https://github.com/awslabs/gluon-ts)
+  * [ICML 2021] **Autoregressive denoising diffusion models for multivariate probabilistic time series forecasting** — Kashif Rasul et al. — [paper](https://proceedings.mlr.press/v139/rasul21a/rasul21a.pdf) [code](https://github.com/zalandoresearch/pytorch-ts)
+  * [KDD 2021] **A transformer-based framework for multivariate time series representation learning** — Zerveas et al. — [paper](https://dl.acm.org/doi/pdf/10.1145/3447548.3467401) [code](https://github.com/gzerveas/mvts_transformer)
+  * [IJCAI 2021] **Time series data augmentation for deep learning: A survey** — Wen et al. — [paper](https://arxiv.org/pdf/2002.12478) [code](https://github.com/Mcompetitions/M4-methods/tree/master/Dataset) (M4 Dataset)
+  * [AAAI 2021] **Graph neural network-based anomaly detection in multivariate time series** — Ailin Deng and Bryan Hooi — [paper](https://ojs.aaai.org/index.php/AAAI/article/view/16523) [code](https://github.com/d-ailin/GDN)
+  * [ICLR 2021] **Rethinking positional encoding in language pre-training** — Ke et al. — [paper](https://arxiv.org/abs/2006.15595) [code](https://github.com/guolinke/TUPE)
+  * [ICCV 2021] **AutoFormer: Searching transformers for visual recognition** — Chen et al. — [paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_AutoFormer_Searching_Transformers_for_Visual_Recognition_ICCV_2021_paper.pdf) [code](https://github.com/microsoft/Cream)
+  * [SIGMOD 2021] **RobustPeriod: Time-frequency mining for robust multiple periodicities detection** — Wen et al. — [paper](https://arxiv.org/pdf/2002.09535) [code](https://github.com/ariaghora/robust-period) 
+  * [ICDM 2021] **SSDNet: State Space Decomposition Neural Network for Time Series Forecasting** — Yang Lin et al. — [paper](https://ieeexplore.ieee.org/document/9679116)
+
+
+
+- [Phys. Plasmas] Neural network tokamak equilibria with incompressible flows — D. A. Kaltsas, G. N. Throumoulopoulos — [paper](https://arxiv.org/abs/2109.12850) 
+- [PPCF 2021] Using HPC infrastructures for deep learning applications in fusion research — Diogo R. Ferreira & JET Contributors — [paper](https://doi.org/10.1088/1361-6587/ac0a3b) 
+- [Phys. Rev. E 2021] Uncovering turbulent plasma dynamics via deep learning from partial observations — A. Mathews et al. — [paper](https://doi.org/10.1103/PhysRevE.104.025205) 
+- [Nucl. Fusion 2021] Proof of concept of a fast surrogate model of the VMEC code via neural networks in Wendelstein 7-X scenarios — Andrea Merlo et al. — [paper](https://doi.org/10.1088/1741-4326/ac1a0d) 
+- [Phys. Plasmas 2021] Neural network surrogate of QuaLiKiz using JET experimental data to populate training space — A. Ho et al. — [paper](https://doi.org/10.1063/5.0038290) 
+- [PST 2021] Machine learning of turbulent transport in fusion plasmas with neural network — Hui Li et al. — [paper](https://doi.org/10.1088/2058-6272/ac15ec) 
+- [FED 2021] An Application of Machine Learning for Plasma Current Quench Studies via Synthetic Data Generation — Niharika Dalsania et al. — [paper](https://doi.org/10.1016/j.fusengdes.2021.112578) 
+- [Nucl. Fusion 2021] Scenario adaptive disruption prediction study for next generation burning-plasma tokamaks — J. X. Zhu et al. — [paper](https://arxiv.org/abs/2109.08956) 
+- [Nucl. Fusion 2021] Prediction of electron density and pressure profile shapes on NSTX-U using neural networks — M. D. Boyer, J. Chadwick — [paper](https://doi.org/10.1088/1741-4326/abe08b) 
+- [Phys. Plasmas 2021] Machine learning methods for probabilistic locked-mode predictors in tokamak plasmas — Cihan Akçay et al. — [paper](https://doi.org/10.1063/5.0053670) 
+
+
+
 
 
 ### Year 2020 & Before 
