@@ -169,7 +169,7 @@
   * [ICDM 2021] **SSDNet: State Space Decomposition Neural Network for Time Series Forecasting** — Yang Lin et al. — [paper](https://ieeexplore.ieee.org/document/9679116)
 
 
-
+Nuclear Fusion
 - [Phys. Plasmas] Neural network tokamak equilibria with incompressible flows — D. A. Kaltsas, G. N. Throumoulopoulos — [paper](https://arxiv.org/abs/2109.12850) 
 - [PPCF 2021] Using HPC infrastructures for deep learning applications in fusion research — Diogo R. Ferreira & JET Contributors — [paper](https://doi.org/10.1088/1361-6587/ac0a3b) 
 - [Phys. Rev. E 2021] Uncovering turbulent plasma dynamics via deep learning from partial observations — A. Mathews et al. — [paper](https://doi.org/10.1103/PhysRevE.104.025205) 
