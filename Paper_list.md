@@ -3,6 +3,12 @@
 
 
 ### Year 2025 
+
+* **EntroPE: Entropy-Guided Dynamic Patch Encoder for Time Series Forecasting**,
+  Sachith Abeywickrama, Emadeldeen Eldele, Min Wu, Xiaoli Li, Chau Yuen
+  [[Paper](https://arxiv.org/abs/2509.26157)]
+  [[Code](https://github.com/Sachithx/EntroPE)] 
+
 * ***
 - TIMER-XL: LONG-CONTEXT TRANSFORMERS FOR  UNIFIED TIME SERIES FORECASTING [[paper]](https://arxiv.org/abs/2410.04803)[[code]](https://github.com/thuml/Timer-XL)
 - TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis[[paper]]((https://arxiv.org/abs/2410.16032))[code]
