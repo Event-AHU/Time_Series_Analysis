@@ -2,7 +2,19 @@
 
 
 
+### Year 2026 
+
+
+
+
+
+
 ### Year 2025 
+
+* **Limix: Unleashing structured-data modeling capability for generalist intelligence**[J]. Zhang X, Ren G, Yu H, et al. arXiv preprint arXiv:2509.03505, 2025.
+  [[Paper](https://arxiv.org/abs/2509.03505)]
+  [[Code](https://github.com/limix-ldm/LimiX/)]
+  [[HuggingFace](https://huggingface.co/stableai-org/)] 
 
 * **EntroPE: Entropy-Guided Dynamic Patch Encoder for Time Series Forecasting**,
   Sachith Abeywickrama, Emadeldeen Eldele, Min Wu, Xiaoli Li, Chau Yuen
