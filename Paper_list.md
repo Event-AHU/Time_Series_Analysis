@@ -15,6 +15,7 @@
 * Kong, Yaxuan, et al. "**Unlocking the power of lstm for long term time series forecasting.**"
   Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 11. 2025.
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33303)]
+  [[Code](https://github.com/Eleanorkong/P-sLSTM)] 
 
 * **Limix: Unleashing structured-data modeling capability for generalist intelligence**[J]. Zhang X, Ren G, Yu H, et al. arXiv preprint arXiv:2509.03505, 2025.
   [[Paper](https://arxiv.org/abs/2509.03505)]
