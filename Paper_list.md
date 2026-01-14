@@ -11,6 +11,11 @@
 
 ### Year 2025 
 
+
+* Kong, Yaxuan, et al. "**Unlocking the power of lstm for long term time series forecasting.**"
+  Proceedings of the AAAI Conference on Artificial Intelligence. Vol. 39. No. 11. 2025.
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33303)]
+
 * **Limix: Unleashing structured-data modeling capability for generalist intelligence**[J]. Zhang X, Ren G, Yu H, et al. arXiv preprint arXiv:2509.03505, 2025.
   [[Paper](https://arxiv.org/abs/2509.03505)]
   [[Code](https://github.com/limix-ldm/LimiX/)]
@@ -21,7 +26,6 @@
   [[Paper](https://arxiv.org/abs/2509.26157)]
   [[Code](https://github.com/Sachithx/EntroPE)] 
 
-* ***
 - TIMER-XL: LONG-CONTEXT TRANSFORMERS FOR  UNIFIED TIME SERIES FORECASTING [[paper]](https://arxiv.org/abs/2410.04803)[[code]](https://github.com/thuml/Timer-XL)
 - TimeMixer++: A General Time Series Pattern Machine for Universal Predictive Analysis[[paper]]((https://arxiv.org/abs/2410.16032))[code]
 - Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts[[paper]](https://arxiv.org/html/2409.16040v1)[[code](https://github.com/Time-MoE/Time-MoE)]
