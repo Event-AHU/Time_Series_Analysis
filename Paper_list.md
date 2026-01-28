@@ -12,7 +12,9 @@
 ### Year 2025 
 
 
-* **Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series**,
+
+
+* **Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series**, KDD 2025, 
   Weijia Zhang, Chenlong Yin, Hao Liu, Hui Xiong
   [[Paper](https://arxiv.org/abs/2408.08328)] 
 
