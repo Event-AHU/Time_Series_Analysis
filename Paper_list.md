@@ -3,16 +3,25 @@
 
 
 ### Year 2026 
-- TKG-LLM:TEMPORALKNOWLEDGEGRAPHASEN HANCEDPROMPTLEARNINGWITHLLMFORTIME SERIESFORECASTING [[paper]](https://openreview.net/forum?id=8OrJvzPdUm)[[code]](https://anonymous.4open.science/r/TKG-LLM66-3A3B/README.md)
+* **TKG-LLM:TEMPORALKNOWLEDGEGRAPHASEN HANCEDPROMPTLEARNINGWITHLLMFORTIME SERIESFORECASTING**
+  [[paper]](https://openreview.net/forum?id=8OrJvzPdUm)
+  [[code]](https://anonymous.4open.science/r/TKG-LLM66-3A3B/README.md)
+
+* **Contextual and Seasonal LSTMs for Time Series Anomaly Detection,** 
+  Lingpei Zhang, Qingming Li, Yong Yang, Jiahao Chen, Rui Zeng, Chenyang Lyu, Shouling Ji
+  [[ICLR 2026](https://arxiv.org/abs/2602.09690)]
+  [[Code](https://github.com/NESA-Lab/Contextual-and-Seasonal-LSTMs-for-TSAD)]
+
+
+
+
+
 
 
 
 
 
 ### Year 2025 
-
-
-
 
 * **Unleashing The Power of Pre-Trained Language Models for Irregularly Sampled Time Series**, KDD 2025, 
   Weijia Zhang, Chenlong Yin, Hao Liu, Hui Xiong
