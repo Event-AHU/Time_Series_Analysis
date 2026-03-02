@@ -30,7 +30,7 @@ HGTS-Former is a novel hypergraph-based backbone for multivariate time series an
 ## Requirements
 
 Please ensure that you are using Python 3.11.0 and install the required dependencies.
-'''
+```
 torch = 2.0.1+cu118
 einops = 0.8.0
 matplotlib = 3.9.2
@@ -38,13 +38,13 @@ numpy = 1.25.0
 pandas = 1.5.3
 scikit-learn = 1.2.2
 transformers = 4.40.1
-'''
+```
 
 ## Prepare Datastes
 
 All datasets can be obtained from [[Google Drive]](https://drive.google.com/drive/folders/13Cg1KYOlzM5C7K8gK8NfC-F3EYxkM3D2?usp=sharing), [[Baidu Drive]](https://pan.baidu.com/s/1r3KhGd0Q9PJIUZdfEYoymg?pwd=i9iy) or [[Hugging Face]](https://huggingface.co/datasets/thuml/Time-Series-Library)
 
-'''
+```
 data
 └── electricity
 	└──electricity.csv
@@ -59,7 +59,7 @@ data
 	└── weather.csv
 └── solar
 	└── solar_AL.txt
-'''
+```
 ## Train & Test
 
 All scripts are located in `./scripts`. For instance, to train or test a model using the ETTh1 dataset with an input length of 672, simply run:
