@@ -6,10 +6,10 @@
   [[Paper]()]
   [[Code]()]
 
-  ##  Overview
+##  Overview
 
 HGTS-Former is a novel hypergraph-based backbone for multivariate time series analysis, which addresses complex variable coupling by constructing hierarchical hypergraphs, aggregates latent temporal patterns within and across channels via a sparse attention mechanism, and adaptively updates node representations through an EdgeToNode module.
-![](./figure/hypergraphV3.jpg)
+![](../figure/hypergraphV3.jpg)
 
 ## Requirements
 
@@ -73,4 +73,5 @@ If you find this repo useful, please consider citing our paper as follows:
 
 
   
+
 
