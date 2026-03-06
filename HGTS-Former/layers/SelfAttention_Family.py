@@ -294,7 +294,6 @@ class HyperGraphAggregateBlock(nn.Module):
         k_norm = keys / (keys.norm(dim=-1, keepdim=True) + 1e-8)        # [B, N, D]
         cos_sim = torch.einsum('bed,bnd->ben', q_norm, k_norm)  # [B, E, N]
         adj_prob = (torch.sigmoid(cos_sim)).detach()  # [B, E, N]
-        # topk为超边得一半
         topk = max(1,adj_prob.shape[1]//3)
         topk_values, topk_indices = torch.topk(adj_prob, topk, dim=1)
         adj = torch.zeros_like(adj_prob)
