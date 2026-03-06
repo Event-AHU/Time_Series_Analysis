@@ -1,5 +1,4 @@
 import sys
-sys.path.append('/sh/HGTS-Former-copy')
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
