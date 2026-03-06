@@ -1,5 +1,4 @@
 import sys
-sys.path.append('/sh/HGTS-Former-copy/layers')
 import torch.nn as nn
 import torch.nn.functional as F
 from SelfAttention_Family import AttentionLayer,TemporalAttention,PatternAndVariateAttention,HyperEdgeToVertex,HyperGraphAggregateBlock
